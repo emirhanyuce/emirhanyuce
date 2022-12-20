@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirhanyuce
 - 👀 I’m interested in cutting edge tech
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning NestJS
 - 📫 How to reach me emirhanyuce@gmail.com
 
 <!---
