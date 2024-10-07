@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emirhanyuce
 - 👀 I’m interested in cutting edge tech
-- 🌱 I’m currently learning NestJS
-- 📫 How to reach me emirhanyuce@gmail.com
+- 📫 How to reach me emirhanbyuce@gmail.com
 
 <!---
 emirhanyuce/emirhanyuce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
